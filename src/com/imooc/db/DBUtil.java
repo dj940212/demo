@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class DBUtil {
 
-    private static final String URL="jdbc:mysql://127.0.0.1:3306/imooc";
+    private static final String URL="jdbc:mysql://59.110.164.55:3306/imooc";
     private static final String USER="root";
     private static final String PASSWORD="root";
 
